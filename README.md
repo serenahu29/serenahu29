@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serenahu29
-- 👀 I’m a rising sophomore @Johns Hopkins University major in computer science
+- 👀 I’m a rising sophomore @Johns Hopkins University majoring in computer science
 - 🌱 I’m fluent in Python, Java, C, C++, Matlab, CSS, HTML, Figma, Canva...
 - 💞️ I’m looking to collaborate on fun coding projects
 - 📫 How to reach me: shu53@jh.edu
