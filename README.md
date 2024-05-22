@@ -5,6 +5,7 @@
 - 📫 How to reach me: shu53@jh.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love cats!
+- https://serenahu29.github.io/serenahu29/
 
 <!---
 serenahu29/serenahu29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
